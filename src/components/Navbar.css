@@ -20,5 +20,5 @@ nav ul li{
     line-height: 1.35em; /* line height */
     padding: 4px 20px; /* inner padding distance */
     text-decoration: none; /* Do not display hyperlink underline */
-    white-space: nowrap; /* For the blank space in the text, it will not wrap, and the text will continue on the same line until it encounters <br>  Label so far. *
+    white-space: nowrap; /* For the blank space in the text, it will not wrap, and the text will continue on the same line until it encounters <br>  Label so far. */
 }
