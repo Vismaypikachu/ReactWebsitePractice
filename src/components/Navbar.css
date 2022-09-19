@@ -1,0 +1,15 @@
+html, body{
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+nav a{
+    padding: 20px;
+    margin: 20px;
+    spacing: 10px;
+    background-color: green;
+    color: black;
+}
