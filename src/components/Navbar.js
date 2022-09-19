@@ -1,6 +1,6 @@
 import React from "react"
 
-Navbar = () =>{
+const Navbar = () =>{
     return <nav>
         <a class="active" href="/">Home</a>
         <a href="/">News</a>
